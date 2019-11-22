@@ -1,0 +1,9 @@
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\bin\Debug\g374_l09_Tsvetkov_Zhukov.exe.config
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\bin\Debug\g374_l09_Tsvetkov_Zhukov.exe
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\bin\Debug\g374_l09_Tsvetkov_Zhukov.pdb
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.csprojResolveAssemblyReference.cache
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.Form1.resources
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.Properties.Resources.resources
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.csproj.GenerateResource.Cache
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.exe
+D:\374\Код\g374_l09_Tsvetkov_Zhukov\g374_l09_Tsvetkov_Zhukov\obj\Debug\g374_l09_Tsvetkov_Zhukov.pdb
